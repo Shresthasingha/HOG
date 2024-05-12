@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/HOG/static/css/main.b2aa240f.css",
+    "main.js": "/HOG/static/js/main.9cb67d15.js",
+    "static/js/787.ebd7646a.chunk.js": "/HOG/static/js/787.ebd7646a.chunk.js",
+    "static/media/order-now.gif": "/HOG/static/media/order-now.0e4d0d77826a37e2fc14.gif",
+    "static/media/login-BG.png": "/HOG/static/media/login-BG.e16ee81fd3be54f0cce6.png",
+    "static/media/login-BG2.png": "/HOG/static/media/login-BG2.b5e270f1a0e1d3dc4802.png",
+    "static/media/delivery.png": "/HOG/static/media/delivery.1f4bcc8fd76f28a79332.png",
+    "static/media/world.png": "/HOG/static/media/world.829d1336f17a780bf6d2.png",
+    "static/media/loading.gif": "/HOG/static/media/loading.8981e9a58e16221f8156.gif",
+    "static/media/google.png": "/HOG/static/media/google.1da0744f303eeea12821.png",
+    "static/media/master.png": "/HOG/static/media/master.3666d2afd7cf2e283f86.png",
+    "static/media/spin.gif": "/HOG/static/media/spin.7adea3e92ead786a729e.gif",
+    "static/media/CREDC___.ttf": "/HOG/static/media/CREDC___.8d7994cdb4113aba391d.ttf",
+    "static/media/error.png": "/HOG/static/media/error.d52e3c1a21dbecc57c96.png",
+    "static/media/empty.png": "/HOG/static/media/empty.011a6ba680b0e6361a9e.png",
+    "static/media/american.png": "/HOG/static/media/american.a0820f4d0daab02389d3.png",
+    "static/media/cart-empty.png": "/HOG/static/media/cart-empty.9c5e89fb4f9511722096.png",
+    "static/media/logo2.png": "/HOG/static/media/logo2.17d1d49e3ae973455d0c.png",
+    "static/media/default.png": "/HOG/static/media/default.05c1018804fdc062dd82.png",
+    "static/media/chip.png": "/HOG/static/media/chip.994b0998f89828e056c2.png",
+    "static/media/logo.png": "/HOG/static/media/logo.5371ec452da1ca9006dd.png",
+    "static/media/visa2.png": "/HOG/static/media/visa2.6a78a1b076d2a0ddbff2.png",
+    "static/media/user.png": "/HOG/static/media/user.7bb7dda85aeac570535b.png",
+    "static/media/A-logo.png": "/HOG/static/media/A-logo.0a855e33e4fec762350c.png",
+    "static/media/contact.png": "/HOG/static/media/contact.14b267ff6d1ffc9e40ef.png",
+    "index.html": "/HOG/index.html",
+    "main.b2aa240f.css.map": "/HOG/static/css/main.b2aa240f.css.map",
+    "main.9cb67d15.js.map": "/HOG/static/js/main.9cb67d15.js.map",
+    "787.ebd7646a.chunk.js.map": "/HOG/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2aa240f.css",
+    "static/js/main.9cb67d15.js"
+  ]
+}
